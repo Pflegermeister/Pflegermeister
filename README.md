@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pflegermeister
+- 👀 I’m interested in making psychometric work more streamlined with programming.
+- 🌱 I’m currently learning about package development.
+- 📫 isaac.pfleger@gmail.com
